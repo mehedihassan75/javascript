@@ -1,0 +1,7 @@
+console.log(100)
+console.log(100.50)
+console.log('mehedi hassan reza')
+console.log('my fav no: '+7)
+console.log(10+10)
+console.log('10'+10)
+console.log('mehedi'+75)
